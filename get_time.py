@@ -1,0 +1,60 @@
+#v2.0
+import time
+import datetime
+from datetime import date
+from dateutil.relativedelta import relativedelta, MO, SU
+##
+
+def forever():
+    return datetime.datetime(year=1900, month=1, day=1)
+
+def FOM(x):
+    #first of month
+    #start of day
+    now = datetime.datetime.now()
+    return datetime.datetime(now.year, now.month - x, 1)
+
+def LOM(x):
+    #last of month
+    #end of day
+    now = datetime.datetime.now()
+    past = datetime.datetime(now.year, now.month - (x-1), 1) - (datetime.timedelta(days=1))
+    return datetime.datetime(past.year, past.month, past.day, hour=23, minute=59, second=59)
+
+def FOY():
+    #first of year
+    #start of day
+    now = datetime.datetime.now()
+    return datetime.datetime(now.year, 1, 1)
+
+def LM(x):
+    #last monday
+    #start of day
+    now = datetime.datetime.now()
+    date = datetime.datetime(now.year, now.month, now.day)
+    return date - datetime.timedelta(weeks=x, days=now.weekday())
+
+def LS(x):
+    #last sunday
+    #end of day
+    now = datetime.datetime.now()
+    date = datetime.datetime(now.year, now.month, now.day, hour=23, minute=59, second=59)
+    return date - datetime.timedelta(weeks=x, days=now.weekday()+1,)
+
+def running_week(x):
+    #running week start
+    #down to hour
+    now = datetime.datetime.now()
+    return now - datetime.timedelta(weeks=x, days=+7)
+
+def running_thirty(x):
+    #30 days ago start
+    #down to hour
+    now = datetime.datetime.now()
+    return now - datetime.timedelta(weeks=(4*x), days=+30)
+
+def day(x):
+    #x days ago
+    #down to hour
+    now = datetime.datetime.now()
+    return now - datetime.timedelta(days=x)

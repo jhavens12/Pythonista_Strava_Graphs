@@ -1,0 +1,719 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {375, 660}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{7, 463}, {361, 163}}",
+        "class" : "ImageView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{138, 280}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "imageview1",
+          "uuid" : "28B04902-13F6-479B-A48C-776DF826327A"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{68, 38}, {120, 65}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label1",
+          "text_color" : "RGBA(1.000000,0.000000,0.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "E34415F8-0DE6-4371-B101-1BACBA07316C",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 36,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{68, 98}, {120, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label2",
+          "text_color" : "RGBA(1.000000,0.000000,0.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "9B6E969E-C6CA-459E-99D5-53A6612A42AC",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{68, 173}, {120, 65}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label4",
+          "text_color" : "RGBA(1.000000,0.000000,0.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "194EBD0E-CB23-40BA-92F3-B90AC475FA3D",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 36,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{255, 173}, {120, 65}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label14",
+          "text_color" : "RGBA(0.000000,0.000000,1.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "5AB8ECDA-E2A3-4746-9401-058E407D83B3",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 36,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{255, 233}, {120, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label15",
+          "text_color" : "RGBA(0.000000,0.000000,1.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "17BE94DD-B391-4972-ABE6-0407C9C449FD",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{255, 298}, {120, 65}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label17",
+          "text_color" : "RGBA(0.000000,0.000000,1.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "D9BA9354-522C-43AB-AAA8-7F781622BCDB",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 36,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{255, 350}, {120, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label18",
+          "text_color" : "RGBA(0.000000,0.000000,1.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "C498F3EF-F8AE-43D6-AD59-CA7E5F4847D0",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{255, 38}, {120, 65}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label11",
+          "text_color" : "RGBA(0.000000,0.000000,1.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "55E5C4DE-1218-4957-B59F-34D46FA16BE4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 36,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{2, 43}, {75, 70}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 24,
+          "font_name" : "Helvetica-BoldOblique",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "D8A18D64-9D5A-483B-8A3E-B799FCC182A8",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "This Week",
+          "number_of_lines" : 2,
+          "name" : "label29",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{2, 173}, {75, 70}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 24,
+          "font_name" : "Helvetica-BoldOblique",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "95F4C406-849A-4A88-B727-DCAEFD810FFC",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "This Month",
+          "number_of_lines" : 2,
+          "name" : "label30",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{2, 298}, {75, 75}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 24,
+          "font_name" : "Helvetica-BoldOblique",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "1F00A85D-915A-49C4-8EC4-0F1364107428",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "7 Days",
+          "number_of_lines" : 2,
+          "name" : "label31",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{68, 298}, {120, 65}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 36,
+          "font_name" : "<System>",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "AE0EF39F-5411-41D9-A603-9DE5465EA63C",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "label7",
+          "text_color" : "RGBA(1.000000,0.000000,0.000000,1.000000)"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{68, 233}, {120, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label5",
+          "text_color" : "RGBA(1.000000,0.000000,0.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "DA4BE620-DF46-43A1-8820-9317685AB1DB",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{255, 98}, {120, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label12",
+          "text_color" : "RGBA(0.000000,0.000000,1.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "4E8F1169-C85F-4134-8CD5-B5F001CF6808",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{68, 120}, {120, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label3",
+          "text_color" : "RGBA(1.000000,0.000000,0.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "9B6E969E-C6CA-459E-99D5-53A6612A42AC",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{255, 120}, {120, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label13",
+          "text_color" : "RGBA(0.000000,0.000000,1.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "4E8F1169-C85F-4134-8CD5-B5F001CF6808",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{68, 255}, {120, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label6",
+          "text_color" : "RGBA(1.000000,0.000000,0.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "DA4BE620-DF46-43A1-8820-9317685AB1DB",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{255, 255}, {120, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label16",
+          "text_color" : "RGBA(0.000000,0.000000,1.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "17BE94DD-B391-4972-ABE6-0407C9C449FD",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{68, 350}, {120, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label8",
+          "text_color" : "RGBA(1.000000,0.038462,0.038462,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "4D15893F-2984-4FA2-B265-DEE9A954A1EC",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{68, 371}, {120, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label9",
+          "text_color" : "RGBA(1.000000,0.038462,0.038462,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "4D15893F-2984-4FA2-B265-DEE9A954A1EC",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{255, 371}, {120, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label19",
+          "text_color" : "RGBA(0.000000,0.000000,1.000000,1.000000)",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "C498F3EF-F8AE-43D6-AD59-CA7E5F4847D0",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{190, 43}, {75, 70}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 24,
+          "font_name" : "Helvetica-BoldOblique",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "D8A18D64-9D5A-483B-8A3E-B799FCC182A8",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Last Week",
+          "number_of_lines" : 2,
+          "name" : "label29",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{190, 173}, {75, 75}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 24,
+          "font_name" : "Helvetica-BoldOblique",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "95F4C406-849A-4A88-B727-DCAEFD810FFC",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Last Month",
+          "number_of_lines" : 2,
+          "name" : "label30",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{190, 298}, {75, 75}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 24,
+          "font_name" : "Helvetica-BoldOblique",
+          "frame" : "{{113, 284}, {150, 32}}",
+          "uuid" : "1F00A85D-915A-49C4-8EC4-0F1364107428",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "This Year",
+          "number_of_lines" : 2,
+          "name" : "label31",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{2, 109}, {75, 45}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 10,
+          "font_name" : "<System>",
+          "frame" : "{{113, 314}, {150, 32}}",
+          "uuid" : "EAFAFBEA-6A2C-4A48-99E4-4B662AEC51DA",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Label",
+          "number_of_lines" : 2,
+          "name" : "label81",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{2, 239}, {75, 45}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label82",
+          "font_name" : "<System>",
+          "frame" : "{{113, 314}, {150, 32}}",
+          "uuid" : "EAFAFBEA-6A2C-4A48-99E4-4B662AEC51DA",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Label",
+          "number_of_lines" : 2,
+          "font_size" : 10,
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{2, 358}, {75, 45}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label83",
+          "font_name" : "<System>",
+          "frame" : "{{113, 314}, {150, 32}}",
+          "uuid" : "EAFAFBEA-6A2C-4A48-99E4-4B662AEC51DA",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Label",
+          "number_of_lines" : 2,
+          "font_size" : 10,
+          "text_color" : "RGBA(0.990637,0.990637,0.990637,1.000000)"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{192, 109}, {75, 45}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label84",
+          "font_name" : "<System>",
+          "frame" : "{{113, 314}, {150, 32}}",
+          "uuid" : "EAFAFBEA-6A2C-4A48-99E4-4B662AEC51DA",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Label",
+          "number_of_lines" : 2,
+          "font_size" : 10,
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{193, 239}, {75, 45}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label85",
+          "font_name" : "<System>",
+          "frame" : "{{113, 314}, {150, 32}}",
+          "uuid" : "EAFAFBEA-6A2C-4A48-99E4-4B662AEC51DA",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Label",
+          "number_of_lines" : 2,
+          "font_size" : 10,
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{193, 358}, {75, 45}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label86",
+          "font_name" : "<System>",
+          "frame" : "{{113, 314}, {150, 32}}",
+          "uuid" : "EAFAFBEA-6A2C-4A48-99E4-4B662AEC51DA",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Label",
+          "number_of_lines" : 2,
+          "font_size" : 10,
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{85, 401}, {217, 38}}",
+        "class" : "SegmentedControl",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "segments" : "Week|Month|2017",
+          "frame" : "{{128, 316}, {120, 29}}",
+          "flex" : "LR",
+          "name" : "segmentedcontrol1",
+          "class" : "SegmentedControl",
+          "uuid" : "378034E8-65B8-4254-9B27-5A5382DC2CAD"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{7, 438}, {120, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 18,
+          "text_color" : "RGBA(1.000000,0.000000,0.000000,1.000000)",
+          "frame" : "{{113, 314}, {150, 32}}",
+          "uuid" : "60013083-BDD8-40D5-BDB7-0D959A1037BE",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "label90",
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{243, 438}, {117, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 18,
+          "text_color" : "RGBA(0.038462,0.038462,1.000000,1.000000)",
+          "frame" : "{{113, 314}, {150, 32}}",
+          "uuid" : "60013083-BDD8-40D5-BDB7-0D959A1037BE",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "label91",
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{79, 18}, {218, 31}}",
+        "class" : "SegmentedControl",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "segments" : "All|Solo|Partner",
+          "frame" : "{{128, 316}, {120, 29}}",
+          "flex" : "LR",
+          "name" : "segmentedcontrol2",
+          "class" : "SegmentedControl",
+          "uuid" : "09B30D45-8878-450A-AD60-EF4A499D4800"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{145, 438}, {90, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label92",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{113, 314}, {150, 32}}",
+          "uuid" : "C69542BF-C458-4357-B6ED-186719487FD1",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{34, 625}, {313, 29}}",
+        "class" : "SegmentedControl",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "segments" : "7|8|90",
+          "frame" : "{{128, 316}, {120, 29}}",
+          "uuid" : "543366D2-29A2-41B7-9C27-DE7B7744A57A",
+          "name" : "segmentedcontrol3",
+          "class" : "SegmentedControl",
+          "flex" : "LR"
+        }
+      }
+    ],
+    "attributes" : {
+      "flex" : "",
+      "custom_class" : "",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : ""
+    }
+  }
+]
